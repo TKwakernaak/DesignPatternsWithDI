@@ -14,8 +14,6 @@ namespace Executer
       var sut = new DuckProgram();
 
       sut.Start();
-
-
     }
   }
 }

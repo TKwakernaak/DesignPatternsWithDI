@@ -7,7 +7,7 @@ namespace Visitor
   public class Program
   {
 
-    //a simple tryout, DI gives no usefull benefits here.
+    //a simple tryout, DI gives no benefits here.
     static void Main(string[] args)
     {
        new CarsView(new CarRepository().GetCars()).Render();

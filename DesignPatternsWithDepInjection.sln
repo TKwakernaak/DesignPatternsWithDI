@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Deco
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator", "Mediator\Mediator.csproj", "{FE4C457F-94F2-4269-8F41-66116EB68248}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{2F2E50C2-2F9F-47C3-9C39-7C37CF4E8A90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Visitor", "Visitor\Visitor.csproj", "{2F2E50C2-2F9F-47C3-9C39-7C37CF4E8A90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rules", "Rules\Rules.csproj", "{31CEFD32-F298-433F-8FC4-5670A9078B61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{2F2E50C2-2F9F-47C3-9C39-7C37CF4E8A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F2E50C2-2F9F-47C3-9C39-7C37CF4E8A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F2E50C2-2F9F-47C3-9C39-7C37CF4E8A90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31CEFD32-F298-433F-8FC4-5670A9078B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31CEFD32-F298-433F-8FC4-5670A9078B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31CEFD32-F298-433F-8FC4-5670A9078B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31CEFD32-F298-433F-8FC4-5670A9078B61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
